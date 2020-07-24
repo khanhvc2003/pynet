@@ -1,5 +1,5 @@
 
-# exercise 1b
+# exercise 1bfsfsfsdfsd
 $ python
 Python 2.7.5 (default, Feb 11 2014, 07:46:25) 
 [GCC 4.8.2 20140120 (Red Hat 4.8.2-13)] on linux2
